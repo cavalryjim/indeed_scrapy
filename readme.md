@@ -1,6 +1,6 @@
 # Indeed Scrapy Project
 
-This is a tutorial for scraping job information from the job posting website Indeed.
+This code was created for a tutorial that scrapes job information from the website Indeed.
 
 I recommend using __pipenv__ for these projects.  If you don't already have it installed,
 use this command:
@@ -27,11 +27,18 @@ $ pipenv shell
 Install the required python packages.
 
 ```
-$ pipenv install
+(indeed_scrapy) $ pipenv install
 ```
 
 Run the scrapy crawler.
 
 ```
-$ scrapy crawl ds_jobs
+(indeed_scrapy) $ scrapy crawl ds_jobs
+```
+
+When you are finished, stop the virtual environment.
+
+```
+(indeed_scrapy) $ exit
+$
 ```
