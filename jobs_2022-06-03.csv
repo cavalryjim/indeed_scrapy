@@ -1,42 +1,61 @@
 job_id,city,company,position
-4676caf3b9f7858f,"Dallas-Fort Worth, TX",COOKIES BY DESIGN,Cookie Decorators
-92bb7bec64036373,"Dallas, TX 75207",Hyatt Regency Dallas,Front Office Agent
-17724663cf0ea6b5,"Dallas, TX 75231",,Front Desk Associate
-2aa74d62c491ba80,"Grand Prairie, TX",,Dog Walker Pet Sitter
-199dd7662e19b2dd,"Garland, TX",,Dog Walker Pet Sitter
-272068aec97b5807,United States,,"Virtual Career Expo June 28, 2022, US Customs and Border Protection"
-85a568dd2d61f253,"Dallas, TX 75218",Dallas Arboretum,"Ticket Sales Associate, Ticket Booth – Seasonal"
-0b316b1730cfe5db,"Remote in Garland, TX 75046",Conifer Health Solutions,RCM Customer Service Representative - Remote
-dd2c72f5e51b368c,"Arlington, TX 76011",,Printing Company-Folder/Gluer Operator
-ecd04d279ebfbc18,"Plano, TX 75024",Samplers Inc.,Liquor Sampler
-a74a73900d23b421,"Dallas, TX 75254",Copart,Tax Clerk
-d83ced41f6cf98c6,"McKinney, TX 75070",The Learning Experience,Opener/Floater
-666d60890bf3d246,"Hybrid remote in Dallas, TX 75207",ADP,Dedicated Client Service Representative
-73b6cb68fea5a596,"Remote in Dallas, TX 75252",,In need of Business Consultant With Experience
-e5f5bfe38f09fb04,"Bedford, TX 76022",Texas Health Resources,Experienced Med Staff Coordinator / Credentialing / 22008002
-354eafc2d58ecfca,"Houston, TX 77054",Coca-Cola Southwest Beverages,Order Builder Loader (Midday)
-bd9709ea627f810f,"Spring, TX 77379",,Front Desk Receptionist
-d196b4a7bb036a42,"Houston, TX",Integrated Global Services,Jetting Technician
-54b945358d7886c0,"Houston, TX 77054",Kelly,Chemical Process Operator
-1a186011adc2c41e,"Houston, TX",Fruge Seafood,Delivery Driver
-6ced117d29ee2db0,"Houston, TX",Primary Services,Inventory Volume Analyst
-354dbe18db6a6ca0,"Houston, TX",,Wetlands / Environmental Scientist
-60a9384b28ce8569,"Remote in Houston, TX",TotalMed Medfi,Care Review Processor II
-6d7df48c6dbd5d1a,"Sugar Land, TX 77478",,Customer Service Specialist
-3772366852a3a549,"Richmond, TX 77407",,Childcare Director
-05d2e15cd97c4f48,"Houston, TX 77092",Penske Truck Leasing and Logistics,Customer Service Representative Fueler/Washer
-be953fc568c09b96,"Houston, TX 77056",,Expeditor
-d8ce573a479495f0,"Houston, TX",Buchanan Technologies,Desktop Support Technician
-971fbd8b096a0be2,"Houston, TX 77018",,Dispatcher (Part-time)
-88307fabc86fb88c,"Richardson, TX 75082",Bank of America,CCAR Data Capture
-13b622dbf0ef823c,"Dallas, TX 75218",Dallas Arboretum,Executive Assistant – Full time
-706dd3b8967c54d7,"Dallas, TX 75241",Dallas County,JUVENILE RESIDENTIAL OFFICER I
-73a88db5ce4154a1,"Grapevine, TX 76051",,Administrative Assistant
-8f7d171454984ad1,"Dallas, TX 75241",Dallas Independent School District,Financial Clerk (Grades: 6-8) Base Calendar
-bfd150a31103e43e,"Arlington, TX 76001",Great Hearts Academies,School Receptionist
-bfa179894dc409d1,"Remote in Plano, TX",Ericsson,Events Coordinator
-eb9627329ef6bd65,"Remote in Richardson, TX 75080",University of Texas at Dallas,International Center Administrative Support
-db9c66daa48499e2,"Dallas, TX 75206",Doubletree by Hilton,Hotel Sales Coordinator
-b71da7d0b825dde8,"Dallas, TX 75218",Dallas Arboretum,Public Event Facilitator – Seasonal
-54b3a116d8f6e8aa,"Irving, TX",Mi Cocina,Receptionist
-e53dae90ee324af5,"Remote in Fort Worth, TX 76118",Allied Electronics & Automation,Recruiting Specialist
+a5b61d5328e6777e,"Dallas, TX 75221",,Senior Environmental Data Analyst
+c17a01ccf31cdd27,"Remote in Irving, TX 75039",Epsilon,"Director, Data Science (Remote)"
+061b894443ce0919,"Plano, TX","JPMorgan Chase Bank, N.A.",Data Scientist - Sr. Associate - Wholesale Payments Data & Analytics
+da41c8276f5e5437,"Dallas, TX 75201",Deloitte,"Senior Data Scientist, Experience Management"
+42733e895b84fc7f,"Dallas, TX 75201",Hawkeye,"Director, Data Science"
+72b34b554a1bf452,"Dallas, TX",Palo Alto Networks,Business Operations Analyst- Cloud & AI
+c95f42c48ff3dc56,"Irving, TX",Citi,DB Marketing Sr. Data Analyst
+3c1fb8eeb9a7a6b2,"Irving, TX 75038",Christus Health,Data Scientist II
+53ebbdd051ce2fa0,"Plano, TX 75023",Toyota,"Manager, Data Science"
+3dfd4e40074ed96c,"Dallas, TX 75218",New Relic,Lead Data Analyst/Scientist
+5ba2b89058879e98,"Remote in Dallas, TX 75226",CyberCoders,Remote Machine Learning Engineer
+083e6be0600aed76,"Dallas, TX 75201",Deloitte,Data Scientist
+b79c68f6a9c96026,"Dallas, TX 75254",Cognizant,Data Modeler
+b4f4bd995b2c1d28,"Irving, TX 75039",Accenture,Data Science Consultant - Supply Chain
+38ca0e3f49e83c66,"Remote in Richardson, TX 75081",UnitedHealthcare,Senior Provider Data Analyst - Telecommute
+eca496915316eebf,"Houston, TX 77030",Houston Methodist,Data Scientist
+ade32d02882ae895,"Houston, TX",Sysco,Associate Data Scientist
+e8e8450627fc7009,"Houston, TX",Sysco,"Senior Data Analyst, Revenue Management - Corporate - US"
+84cf84ccd5f17e5f,"Houston, TX 77057",Wood Mackenzie,Senior Data Scientist
+e8fe5775b5dbf7c3,"Houston, TX",Sysco,"Director, Data Science"
+13aca544c07d9f80,"Houston, TX",Worley,"Director, Digital Platforms & Data Science"
+41aff7579ae193c1,"Houston, TX 77001",New Relic,Lead Data Analyst/Scientist
+f073d5d0b8085205,"Houston, TX 77002",Kforce,Data Scientist
+d42fe3140568a9fa,"Houston, TX 77001",Actalent,Statistical Programmer
+9c31819b8203a858,"Houston, TX 77002",Aramco Services Company,Petroleum Engineer | Data Scientist (681177)
+2145381c2a22bbb3,"Houston, TX 77002",Deloitte,Data Scientist
+4ee5a778e88956f2,"Houston, TX 77002",KPMG,"Senior Specialist, Federal Data Scientist"
+43f806cf378f90bb,"Houston, TX 77002",Accenture,Data Science Consultant - Supply Chain
+f68d797c7aee8fcf,"Sugar Land, TX",Schlumberger,Data Engineer
+07cb7e1fe09037fc,"Sugar Land, TX 77478",HCA Houston Healthcare,Sr Data Analyst
+04b6d2c611eed9b5,"Dallas, TX 75202",Sam's Club,Principal Data Scientist
+9fdf7ea747d3c318,"Hybrid remote in Dallas, TX",,Sr. Finance Data Analyst - Allocations
+b5a07a770260ec4c,"Dallas, TX 75247",ChildCareGroup,"Senior Data Analyst, Insights and Compliance"
+931dee7bef1786eb,"Plano, TX 75024",The Coca-Cola Company,Senior ML Engineer
+58b96ddcb4f5d880,"Hybrid remote in Dallas, TX 75253",Dave & Buster's,Senior Data Analyst
+5a670980e5ae4086,"Remote in Dallas, TX 75201",PRICE WATERHOUSE COOPERS,Deals Technology & Data Solutions - Sr. Manager
+f9a8c38e76d15eb1,"Remote in Dallas, TX 75201",Shopify,"Senior Data Scientist - SHOP (Remote, United States)"
+7d9909d4caa82c17,"Dallas, TX 75221",Fisher Investments,Data Science Associate
+44b865ed0a6ecad5,"Plano, TX",ektello,Data Scientist
+78a27e9d30f00144,"Remote in Dallas, TX 75201",Shopify,"Staff (Lead) Data Scientist (Remote, United States)"
+9d91c82ac922ca95,"Temporarily Remote in Irving, TX",,Artificial Intelligence & Machine Learning Engineer
+a01db90058fafa72,"Dallas, TX",Blue Yonder,Data Science Consultant II
+c9c5e1c6531b6956,"Dallas, TX 75201",Builders FirstSource,Senior Sales Data Analyst
+37b3c86412168ce5,"Dallas, TX 75221",,Product Manager – Data Science & Engineering
+85c613f065b88264,"Plano, TX 75023",Capital One,"Manager, Data Science"
+32da110db06e610e,"Houston, TX","JPMorgan Chase Bank, N.A.",Machine Learning - Site Reliability Engineer
+31ac3bd052268371,"Houston, TX 77030",Baylor College of Medicine,"Postdoctoral Associate- Protein Engineering, Electrophysiology, Optics, or Machine Learning"
+d78e4b38a8989fb2,"Houston, TX 77010",Bain & Company,"Senior Director, Machine Learning, Global Engineering"
+5b1391be1bad52f9,"Houston, TX",Capgemini,"Senior Data Science Consultant, Atlanta"
+43bcee3163bc38b9,"Houston, TX",Transwestern,Senior Data Scientist
+16f2c0b6c1861831,"Houston, TX 77042",Tessella,"Data Scientist - Bioinformatics, Genomics"
+25101b55cd69a1fc,"Houston, TX","JPMorgan Chase Bank, N.A.",Machine Learning Project Execution
+8188644ef2f08b55,"Houston, TX 77042",Tessella,Senior Data Scientist - Energy & Utilities
+1d7f82866712588f,United States,,Senior Statistician
+a56394ec339957cb,"Remote in Houston, TX 77002",PRICE WATERHOUSE COOPERS,Deals Technology & Data Solutions - Sr. Manager
+c48d20829c4243fa,"Hybrid remote in Houston, TX 77010",LyondellBasell Industries,Data Scientist III
+1ad87eaaf5b91d94,"Houston, TX",,Machine Learning Engineer
+2f89856040af161a,United States,,Principal Stat Programmer
+7d44bcaf112d2221,"Remote in Houston, TX 77001",Ayasdi,Data Scientist
+414d8675853e616a,"Houston, TX",,Data Scientist (TX)

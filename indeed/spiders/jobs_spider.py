@@ -10,8 +10,8 @@ class JobSpider(scrapy.Spider):
     start_urls = [
         # This url will return an html file with data scientist jobs in Dallas TX.
         # The job postings will be sorted by date from the past 7 days.
-        'https://www.indeed.com/jobs?l=Dallas%2C%20TX&sort=date&fromage=7',
-        'https://www.indeed.com/jobs?l=Houston%2C%20TX&sort=date&fromage=7',
+        'https://www.indeed.com/jobs?q=data%20scientist&l=Dallas%2C%20TX&sort=date&fromage=7',
+        'https://www.indeed.com/jobs?q=data%20scientist&l=Houston%2C%20TX&sort=date&fromage=7',
     ]
 
     def parse(self, response):
@@ -47,6 +47,7 @@ class JobSpider(scrapy.Spider):
 
         if len(jobs) >= 15 and not repeating:
             url = response.url + "&start=" + str(start)
+            print(url)
             yield scrapy.Request(
                 url = url,
                 callback = self.parse
