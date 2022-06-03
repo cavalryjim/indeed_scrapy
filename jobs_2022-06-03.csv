@@ -1,61 +1,44 @@
 job_id,city,company,position
 a5b61d5328e6777e,"Dallas, TX 75221",,Senior Environmental Data Analyst
 c17a01ccf31cdd27,"Remote in Irving, TX 75039",Epsilon,"Director, Data Science (Remote)"
+42733e895b84fc7f,"Dallas, TX 75201",Hawkeye,"Director, Data Science"
 061b894443ce0919,"Plano, TX","JPMorgan Chase Bank, N.A.",Data Scientist - Sr. Associate - Wholesale Payments Data & Analytics
 da41c8276f5e5437,"Dallas, TX 75201",Deloitte,"Senior Data Scientist, Experience Management"
-42733e895b84fc7f,"Dallas, TX 75201",Hawkeye,"Director, Data Science"
 72b34b554a1bf452,"Dallas, TX",Palo Alto Networks,Business Operations Analyst- Cloud & AI
 c95f42c48ff3dc56,"Irving, TX",Citi,DB Marketing Sr. Data Analyst
 3c1fb8eeb9a7a6b2,"Irving, TX 75038",Christus Health,Data Scientist II
-53ebbdd051ce2fa0,"Plano, TX 75023",Toyota,"Manager, Data Science"
+e66bd831a299eafb,United States,Harnham,Principal Machine Learning Engineer
 3dfd4e40074ed96c,"Dallas, TX 75218",New Relic,Lead Data Analyst/Scientist
 5ba2b89058879e98,"Remote in Dallas, TX 75226",CyberCoders,Remote Machine Learning Engineer
-083e6be0600aed76,"Dallas, TX 75201",Deloitte,Data Scientist
-b79c68f6a9c96026,"Dallas, TX 75254",Cognizant,Data Modeler
-b4f4bd995b2c1d28,"Irving, TX 75039",Accenture,Data Science Consultant - Supply Chain
-38ca0e3f49e83c66,"Remote in Richardson, TX 75081",UnitedHealthcare,Senior Provider Data Analyst - Telecommute
-eca496915316eebf,"Houston, TX 77030",Houston Methodist,Data Scientist
-ade32d02882ae895,"Houston, TX",Sysco,Associate Data Scientist
-e8e8450627fc7009,"Houston, TX",Sysco,"Senior Data Analyst, Revenue Management - Corporate - US"
-84cf84ccd5f17e5f,"Houston, TX 77057",Wood Mackenzie,Senior Data Scientist
-e8fe5775b5dbf7c3,"Houston, TX",Sysco,"Director, Data Science"
-13aca544c07d9f80,"Houston, TX",Worley,"Director, Digital Platforms & Data Science"
-41aff7579ae193c1,"Houston, TX 77001",New Relic,Lead Data Analyst/Scientist
-f073d5d0b8085205,"Houston, TX 77002",Kforce,Data Scientist
-d42fe3140568a9fa,"Houston, TX 77001",Actalent,Statistical Programmer
-9c31819b8203a858,"Houston, TX 77002",Aramco Services Company,Petroleum Engineer | Data Scientist (681177)
-2145381c2a22bbb3,"Houston, TX 77002",Deloitte,Data Scientist
-4ee5a778e88956f2,"Houston, TX 77002",KPMG,"Senior Specialist, Federal Data Scientist"
-43f806cf378f90bb,"Houston, TX 77002",Accenture,Data Science Consultant - Supply Chain
-f68d797c7aee8fcf,"Sugar Land, TX",Schlumberger,Data Engineer
-07cb7e1fe09037fc,"Sugar Land, TX 77478",HCA Houston Healthcare,Sr Data Analyst
+8566507d184eade4,United States,,Principal Statistical Programmer
+53ebbdd051ce2fa0,"Plano, TX 75023",Toyota,"Manager, Data Science"
+4689471a24243486,"Dallas, TX",KPMG,"Senior Specialist, Federal Data Scientist"
+2de82437528b73de,"Arlington, TX 76013",University of Texas at Arlington,Data Science Specialist (S03695P)
+f18249c43b9a4526,"Dallas, TX",Essilor,Sr. Data Analyst
 04b6d2c611eed9b5,"Dallas, TX 75202",Sam's Club,Principal Data Scientist
 9fdf7ea747d3c318,"Hybrid remote in Dallas, TX",,Sr. Finance Data Analyst - Allocations
 b5a07a770260ec4c,"Dallas, TX 75247",ChildCareGroup,"Senior Data Analyst, Insights and Compliance"
 931dee7bef1786eb,"Plano, TX 75024",The Coca-Cola Company,Senior ML Engineer
 58b96ddcb4f5d880,"Hybrid remote in Dallas, TX 75253",Dave & Buster's,Senior Data Analyst
-5a670980e5ae4086,"Remote in Dallas, TX 75201",PRICE WATERHOUSE COOPERS,Deals Technology & Data Solutions - Sr. Manager
 f9a8c38e76d15eb1,"Remote in Dallas, TX 75201",Shopify,"Senior Data Scientist - SHOP (Remote, United States)"
 7d9909d4caa82c17,"Dallas, TX 75221",Fisher Investments,Data Science Associate
 44b865ed0a6ecad5,"Plano, TX",ektello,Data Scientist
-78a27e9d30f00144,"Remote in Dallas, TX 75201",Shopify,"Staff (Lead) Data Scientist (Remote, United States)"
 9d91c82ac922ca95,"Temporarily Remote in Irving, TX",,Artificial Intelligence & Machine Learning Engineer
 a01db90058fafa72,"Dallas, TX",Blue Yonder,Data Science Consultant II
 c9c5e1c6531b6956,"Dallas, TX 75201",Builders FirstSource,Senior Sales Data Analyst
 37b3c86412168ce5,"Dallas, TX 75221",,Product Manager – Data Science & Engineering
 85c613f065b88264,"Plano, TX 75023",Capital One,"Manager, Data Science"
-32da110db06e610e,"Houston, TX","JPMorgan Chase Bank, N.A.",Machine Learning - Site Reliability Engineer
-31ac3bd052268371,"Houston, TX 77030",Baylor College of Medicine,"Postdoctoral Associate- Protein Engineering, Electrophysiology, Optics, or Machine Learning"
-d78e4b38a8989fb2,"Houston, TX 77010",Bain & Company,"Senior Director, Machine Learning, Global Engineering"
-5b1391be1bad52f9,"Houston, TX",Capgemini,"Senior Data Science Consultant, Atlanta"
-43bcee3163bc38b9,"Houston, TX",Transwestern,Senior Data Scientist
-16f2c0b6c1861831,"Houston, TX 77042",Tessella,"Data Scientist - Bioinformatics, Genomics"
-25101b55cd69a1fc,"Houston, TX","JPMorgan Chase Bank, N.A.",Machine Learning Project Execution
-8188644ef2f08b55,"Houston, TX 77042",Tessella,Senior Data Scientist - Energy & Utilities
-1d7f82866712588f,United States,,Senior Statistician
-a56394ec339957cb,"Remote in Houston, TX 77002",PRICE WATERHOUSE COOPERS,Deals Technology & Data Solutions - Sr. Manager
-c48d20829c4243fa,"Hybrid remote in Houston, TX 77010",LyondellBasell Industries,Data Scientist III
-1ad87eaaf5b91d94,"Houston, TX",,Machine Learning Engineer
-2f89856040af161a,United States,,Principal Stat Programmer
-7d44bcaf112d2221,"Remote in Houston, TX 77001",Ayasdi,Data Scientist
-414d8675853e616a,"Houston, TX",,Data Scientist (TX)
+7af3173c86d5c9b3,"Dallas, TX",,Computer Vision/Machine Learning Engineer (FT)
+47eabe57c4a1faba,"Frisco, TX 75033",Interior Logic Group,"Senior Data Engineer, Data Science & Engineering"
+8b2610ef1f43fb64,"Remote in Plano, TX 75023",Toyota,"MLOps Engineer, Toyota Data Science Platform"
+7e3f8d42e641cf3e,"Dallas, TX 75219",EY,Staff - National Tax - Tax Technology & Transformation - Advanced Technologies - Data Scientist
+9b018af12b14f8cb,"Dallas, TX",Tricolor Auto Group,Jr. Data Scientist
+e4695150c8370bca,"Dallas, TX 75202",Walmart,Staff Data Scientist - NLP
+51912adc1d50be8d,"Dallas, TX 75390",UT Southwestern,"Department Data Analyst Sr, Accreditation and Policy Mgmt"
+bf6a4debbd8a7126,"Plano, TX 75024",Pinnacle Technical Resources,Data Scientist (Entry-Level)
+b0a3eea6cb305d52,"Irving, TX 75063",,Collections/credit/Financial Analyst
+c4f6ce9d845f1ef8,"Irving, TX",WELLS FARGO BANK,Senior Quantitative Analytics Specialist - Operational Risk Modeling
+8e0a60e80459bbe7,"Richardson, TX",Aquent,"Datacenter DevOps Eng - Cloud & AI, Azure for Operators - PIB"
+167b01eb8dc191f3,"Remote in Dallas, TX 75254",Automation Anywhere,Data Quality Analyst
+37bf48f18f010ac6,"Irving, TX 75063",Radiant Systems Inc,Financial Analyst
+5d7200c4e09b2140,"Remote in Plano, TX",Ericsson,SON AI/ML Engineer

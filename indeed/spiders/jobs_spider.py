@@ -6,12 +6,13 @@ import datetime, pytz
 class JobSpider(scrapy.Spider):
     name = "ds_jobs"
     job_ids = []
+    start = 0
 
     start_urls = [
         # This url will return an html file with data scientist jobs in Dallas TX.
         # The job postings will be sorted by date from the past 7 days.
         'https://www.indeed.com/jobs?q=data%20scientist&l=Dallas%2C%20TX&sort=date&fromage=7',
-        'https://www.indeed.com/jobs?q=data%20scientist&l=Houston%2C%20TX&sort=date&fromage=7',
+        # 'https://www.indeed.com/jobs?q=data%20scientist&l=Houston%2C%20TX&sort=date&fromage=7',
     ]
 
     def parse(self, response):
@@ -26,7 +27,6 @@ class JobSpider(scrapy.Spider):
             out_file = open(file_name, 'w')
             csv_writer = csv.writer(out_file)
             csv_writer.writerow( [ 'job_id', 'city', 'company', 'position' ])
-        start = 0
 
         repeating = False
 
@@ -41,12 +41,12 @@ class JobSpider(scrapy.Spider):
             if job_id not in JobSpider.job_ids:
                 csv_writer.writerow( [job_id, city, company, position] )
                 self.job_ids.append(job_id)
-                start += 1
+                self.start += 1
             else:
                 repeating = True
 
         if len(jobs) >= 15 and not repeating:
-            url = response.url + "&start=" + str(start)
+            url = response.url.split('&start=')[0] + "&start=" + str(self.start)
             print(url)
             yield scrapy.Request(
                 url = url,
@@ -54,6 +54,7 @@ class JobSpider(scrapy.Spider):
             )
         else:
             print('No page left')
+            # self.start = 0
 
 
         out_file.close()
