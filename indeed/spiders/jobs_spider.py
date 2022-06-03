@@ -16,6 +16,7 @@ class JobSpider(scrapy.Spider):
     ]
 
     def parse(self, response):
+        print(response.url)
         now = pytz.timezone("America/Chicago").localize(datetime.datetime.now())
         file_name = 'jobs_' + now.strftime("%Y-%m-%d")  + '.csv'
         jobs = response.css("div.result")
@@ -47,7 +48,7 @@ class JobSpider(scrapy.Spider):
 
         if len(jobs) >= 15 and not repeating:
             url = response.url.split('&start=')[0] + "&start=" + str(self.start)
-            print(url)
+            # print(url)
             yield scrapy.Request(
                 url = url,
                 callback = self.parse
