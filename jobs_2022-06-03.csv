@@ -1,13 +1,13 @@
 job_id,city,company,position
 a5b61d5328e6777e,"Dallas, TX 75221",,Senior Environmental Data Analyst
 c17a01ccf31cdd27,"Remote in Irving, TX 75039",Epsilon,"Director, Data Science (Remote)"
-3c1fb8eeb9a7a6b2,"Irving, TX 75038",Christus Health,Data Scientist II
-e885e19da174912c,"Remote in Dallas, TX",Cox Automotive,Senior Data Analyst
 061b894443ce0919,"Plano, TX","JPMorgan Chase Bank, N.A.",Data Scientist - Sr. Associate - Wholesale Payments Data & Analytics
 da41c8276f5e5437,"Dallas, TX 75201",Deloitte,"Senior Data Scientist, Experience Management"
 42733e895b84fc7f,"Dallas, TX 75201",Hawkeye,"Director, Data Science"
 72b34b554a1bf452,"Dallas, TX",Palo Alto Networks,Business Operations Analyst- Cloud & AI
 c95f42c48ff3dc56,"Irving, TX",Citi,DB Marketing Sr. Data Analyst
+3c1fb8eeb9a7a6b2,"Irving, TX 75038",Christus Health,Data Scientist II
+e66bd831a299eafb,United States,Harnham,Principal Machine Learning Engineer
 53ebbdd051ce2fa0,"Plano, TX 75023",Toyota,"Manager, Data Science"
 3dfd4e40074ed96c,"Dallas, TX 75218",New Relic,Lead Data Analyst/Scientist
 5ba2b89058879e98,"Remote in Dallas, TX 75226",CyberCoders,Remote Machine Learning Engineer
@@ -30,10 +30,11 @@ f68d797c7aee8fcf,"Sugar Land, TX",Schlumberger,Data Engineer
 8188644ef2f08b55,"Houston, TX 77042",Tessella,Senior Data Scientist - Energy & Utilities
 07cb7e1fe09037fc,"Sugar Land, TX 77478",HCA Houston Healthcare,Sr Data Analyst
 8d210e7a240e4afc,"Dallas, TX 75251",Ziosk,Data Science Engineer
+1d7f82866712588f,United States,,Senior Statistician
 f18249c43b9a4526,"Dallas, TX",Essilor,Sr. Data Analyst
 58b96ddcb4f5d880,"Hybrid remote in Dallas, TX 75253",Dave & Buster's,Senior Data Analyst
-931dee7bef1786eb,"Plano, TX 75024",The Coca-Cola Company,Senior ML Engineer
 9fdf7ea747d3c318,"Hybrid remote in Dallas, TX",,Sr. Finance Data Analyst - Allocations
+931dee7bef1786eb,"Plano, TX 75024",The Coca-Cola Company,Senior ML Engineer
 b5a07a770260ec4c,"Dallas, TX 75247",ChildCareGroup,"Senior Data Analyst, Insights and Compliance"
 5a670980e5ae4086,"Remote in Dallas, TX 75201",PRICE WATERHOUSE COOPERS,Deals Technology & Data Solutions - Sr. Manager
 f9a8c38e76d15eb1,"Remote in Dallas, TX 75201",Shopify,"Senior Data Scientist - SHOP (Remote, United States)"
@@ -43,4 +44,3 @@ ef60dfbcbc613bef,"Remote in Dallas, TX 75201",Shopify,"Data Science Manager (Rem
 8bc23ede4c38917a,United States,S&P Global,Data Engineer - Data Science Platforms & Infrastructure Virtual Hiring Event
 9d91c82ac922ca95,"Temporarily Remote in Irving, TX",,Artificial Intelligence & Machine Learning Engineer
 a01db90058fafa72,"Dallas, TX",Blue Yonder,Data Science Consultant II
-998eff924b91a5a7,United States,Gables Search Group,DevOps/Data Science - Master Requires Secret Clearance or higher

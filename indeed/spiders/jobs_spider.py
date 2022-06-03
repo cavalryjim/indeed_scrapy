@@ -40,7 +40,7 @@ class JobSpider(scrapy.Spider):
             # print(job_id, company, title)
             if job_id not in JobSpider.job_ids:
                 csv_writer.writerow( [job_id, city, company, position] )
-                JobSpider.job_ids.append(job_id)
+                self.job_ids.append(job_id)
                 start += 1
             else:
                 repeating = True
