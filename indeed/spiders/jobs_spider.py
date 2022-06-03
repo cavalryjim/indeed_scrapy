@@ -38,7 +38,7 @@ class JobSpider(scrapy.Spider):
             #<div class="companyLocation">
             city = job.css('div.companyLocation::text').get()
             # print(job_id, company, title)
-            if job_id not in JobSpider.job_ids:
+            if job_id not in self.job_ids:
                 csv_writer.writerow( [job_id, city, company, position] )
                 self.job_ids.append(job_id)
                 self.start += 1
